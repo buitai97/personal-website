@@ -20,9 +20,9 @@ const AppFooter = () => {
                 <Col md={6} xs={6} className="d-flex flex-column mt-md-5 mt-3 align-items-center justify-content-center">
                     <h3 className="mb-md-5 mb-2">FIND ME ON </h3>
                     <SocialMedia
-                        github={APP_DATA.YOUTUBE_URL}
-                        discord={APP_DATA.FACEBOOK_URL}
-                        linkedin={APP_DATA.TIKTOK_URL}
+                        github={APP_DATA.GITHUB_URL}
+                        discord={APP_DATA.DISCORD_URL}
+                        linkedin={APP_DATA.LINKEDIN_URL}
                     />
                 </Col >
                 
