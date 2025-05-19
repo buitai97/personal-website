@@ -17,10 +17,10 @@ const About = () => {
                 <Col md={6} xs={12}>
                     <h3 className="text-center mb-md-5 mb-2">Know Who <span className="brand-red">I'M</span> </h3>
                     <div>
-                           <p> Hi! I'm Tai, a student with a strong interest in full-stack development. I'm currently studying Computer Science at Cal Poly Pomona, and I enjoy creating user-focused, efficient digital experiences.
+                        <p> Hi! I'm Tai, a student with a strong interest in full-stack development. I'm currently studying Computer Science at Cal Poly Pomona, and I enjoy creating user-focused, efficient digital experiences.
 
-Outside of tech, I'm into tennis, gaming, and traveling and I'm always up for a new challenge. Let's build something great together!
-                            </p>    
+                            Outside of tech, I'm into tennis, gaming, and traveling and I'm always up for a new challenge. Let's build something great together!
+                        </p>
                     </div>
                     <div>
                         <p className="text-center brand-red">"Trying to be a rainbow in someone’s cloud… while debugging JavaScript."</p>
@@ -59,7 +59,7 @@ Outside of tech, I'm into tennis, gaming, and traveling and I'm always up for a 
                                                 <FaGraduationCap size={36} />
                                             </div>
                                             <div className="info">
-                                                <p className="title">Computer Sciencer</p>
+                                                <p className="title">Computer Science</p>
                                                 <p className="company">California State Polytechnic University, Pomona</p>
                                             </div>
                                         </div>
